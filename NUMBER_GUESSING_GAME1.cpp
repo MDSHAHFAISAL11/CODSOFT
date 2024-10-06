@@ -47,5 +47,5 @@ int main()
     else{
         cout<<"sorry YOU LOOSE!!\n\n";
     }
-    
+   return 0; 
 }
